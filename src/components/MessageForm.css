@@ -1,0 +1,44 @@
+
+
+form {
+    position: absolute;
+    /* bottom: 100px;
+    left: 600px; */
+    top: 80%;
+    left: 32%;
+    
+}
+
+input {
+    height: 30px;
+    width: 500px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: yellowgreen;
+}
+
+input:focus {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+
+button {
+    margin: 10px;
+    height: 40px;
+    width: 200px;
+    bottom: 20px;
+    border: none;
+    background-color: springgreen;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: skyblue;
+}
